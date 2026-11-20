@@ -1,0 +1,24 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: aquamarine;
+    padding: 20px 40px;
+}
+
+.nav2{
+  display: flex;
+  gap: 30px;
+}
